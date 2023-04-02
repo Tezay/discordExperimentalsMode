@@ -1,5 +1,7 @@
-# Discord Experimentals Mode
-A way to access Discord's experimental features (stickers without vpn)
+# Experimental mode on Discord is unfortunately no longer available.
+
+
+It was a way to access Discord's experimental features (stickers without vpn)
 
 After executing the code in code.js in the console, you will have access to two new buttons in your user settings!
 
